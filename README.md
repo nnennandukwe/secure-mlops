@@ -1,6 +1,7 @@
 # Secure MLOps with JFrog: A Step-by-Step Guide for AI/ML Practitioners
 
-[Presentation of Overview of Security for MLOps](https://gamma.app/docs/DevSecOps-for-ML-Securing-Your-Model-Supply-Chain-57uwanqs39hk6ib)
+- [Presentation of Overview of Security for MLOps](https://gamma.app/docs/DevSecOps-for-ML-Securing-Your-Model-Supply-Chain-57uwanqs39hk6ib)
+- [Tutorial Promotion Video](https://share.descript.com/view/FggCKvdnedc)
 
 ## Overview
 
