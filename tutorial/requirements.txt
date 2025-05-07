@@ -1,0 +1,5 @@
+# Add a library known to have vulnerabilities for demo purposes
+# Example: Use an older version of requests or another library
+# Check CVE databases for suitable examples if needed for a live Xray demo
+# For this conceptual tutorial, we'll just include a common library:
+flask==2.0.0 # Example: Using a slightly older version
