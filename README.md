@@ -1,5 +1,7 @@
 # Secure MLOps with JFrog: A Step-by-Step Guide for AI/ML Practitioners
 
+[Presentation of Overview of Security for MLOps](https://gamma.app/docs/DevSecOps-for-ML-Securing-Your-Model-Supply-Chain-57uwanqs39hk6ib)
+
 ## Overview
 
 This tutorial provides a comprehensive, hands-on walkthrough for building a secure MLOps workflow using the JFrog Platform. You’ll train a real machine learning model, containerize the serving application, store artifacts securely using JFrog Artifactory, and simulate vulnerability scanning with JFrog Xray.
